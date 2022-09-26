@@ -1,5 +1,5 @@
 # moea-pn
-Preference-Based Nonlinear Normalization for Multiobjective Optimization
+This repository provides source code for the paper "Preference-Based Nonlinear Normalization for Multiobjective Optimization".
 
 **Solutions obtained by SPEA2-PN on SZDT1-3 with different preferences:**
 
